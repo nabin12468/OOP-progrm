@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    
+    cout << "C++ Program to display the number of objects created using static member" << endl; 
     return 0;
 }
