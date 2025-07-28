@@ -9,14 +9,14 @@ class complex
 
 public:
     complex() {
-        a = 0;
+        a = 10;
         b = 0;
     }
     complex(int x, int y) {
         a = x;
         b = y;
     }
-    complex(int x) {
+    complex(int x ) {
         a = x;
         b = 0;
     }
