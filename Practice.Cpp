@@ -51,3 +51,17 @@ int main()
 //6. it cannot access the members of the class directly by its object, it has to use an object as an argument
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
