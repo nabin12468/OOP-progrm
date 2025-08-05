@@ -1,5 +1,5 @@
 // overloading function with different number of arguments
-//this is important cpncept
+//this is important concept
 #include <iostream>
 using namespace std;
 
