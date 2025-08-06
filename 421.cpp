@@ -2,17 +2,17 @@
 #include<iostream>
 #include<conio.h>
 using namespace std;
-inline void sum(int a,int b){
+inline void sum(int x,int y){
 	int s;
-	s=a+b;
+	s=x+y;
 	cout<<"Sum of two number is:="<<s<<endl;
-	s=a-b;
+	s=x-y;
 	cout<<"Difference of two number is:="<<s<<endl;
 }
 int main(){
-	int x,y;
+	int a,b;
 	cout<<"Enter the two Numbers"<<endl;
-	cin>>x>>y;
-	sum(x,y);
+	cin>>a>>b;
+	sum(a,b);
 	return 0;
 }
