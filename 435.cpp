@@ -12,6 +12,6 @@ int main() {
     cout << "\n";
     cout << div(n, m);
     cout << "\n";
-    // getch(); // Uncomment if using Turbo C++ or similar
+    //  // Uncomment if using Turbo C++ or similar
     return 0;
 }

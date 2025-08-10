@@ -1,4 +1,5 @@
 // informationn of student 
+//students detail 
 
 #include <iostream>
 using namespace std;
