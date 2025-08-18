@@ -1,6 +1,6 @@
 //dynamic cinstructor
 /*Dynamic constructor is  used to allocate the memory to the objects at the run time.
-/memory is allocated at the run time with the help of 'new' operator.
+/#memory is allocated at the run time with the help of 'new' operator.
 
 */
 
