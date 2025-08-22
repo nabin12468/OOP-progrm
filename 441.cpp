@@ -1,4 +1,4 @@
-//ambiguity
+//ambiguity is resolved by explicitly calling the method from the desired base class
 //ambiguity in multiple inheritance 
 #include <iostream>
 using namespace std;
