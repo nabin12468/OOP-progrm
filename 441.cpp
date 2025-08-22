@@ -1,4 +1,5 @@
 //ambiguity
+//ambiguity in multiple inheritance 
 #include <iostream>
 using namespace std;
 
