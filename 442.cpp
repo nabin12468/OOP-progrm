@@ -1,4 +1,4 @@
-//basic calculator program in C++
+//basic calculator program 
 
 #include <iostream>
 using namespace std;
