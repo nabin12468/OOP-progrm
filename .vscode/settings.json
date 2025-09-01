@@ -2,6 +2,7 @@
     "files.associations": {
         "cmath": "cpp",
         "typeindex": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "iostream": "cpp"
     }
 }
