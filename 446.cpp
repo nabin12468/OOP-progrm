@@ -1,4 +1,5 @@
-//call by pointer or pass by address
+//call by pointer 
+//pass by address
 
 #include <iostream>
 using namespace std;
