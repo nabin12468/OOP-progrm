@@ -3,6 +3,7 @@
         "cmath": "cpp",
         "typeindex": "cpp",
         "typeinfo": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
