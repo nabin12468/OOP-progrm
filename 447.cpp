@@ -1,4 +1,4 @@
-//progrsm to access static data member using static member function
+//*progrsm to access static data member using static member function
 #include <iostream>
 using namespace std;
 
