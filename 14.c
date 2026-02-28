@@ -57,7 +57,7 @@ printf(" Q-1=%d\n", Q_minus_1);
 // Combine A (High byte) and Q (Low byte)
 int final_res = (A << 8) | q_reg;
 
-// To print the correct negative decimal, we sign-extend to 32-bit
+
 int decimal_output = final_res;
 if (final_res & 0x8000) { // If the 16th bit is 1, it's negative
 decimal_output |= 0xFFFF0000;
