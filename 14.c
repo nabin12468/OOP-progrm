@@ -15,12 +15,12 @@ scanf("%d", &M);
 printf("Enter MultipLier (Q): ");
 scanf("%d", &Q);
 
-// Use 8-bit logic for the simulation
 int A = 0;
 int Q_minus_1 = 0;
 int m_reg = M & 0xFF;
 int q_reg = Q & 0xFF;
 int count = 8;
+
 
 printf("\n[Initial State]: A="); printBinary(A, 8);
 printf(" Q="); printBinary(q_reg, 8);
