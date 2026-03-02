@@ -12,7 +12,7 @@ scanf("%s", binary);
 
 len = strlen(binary);
 
-// 1's complement
+// 1's complemen
 for (int i = 0; i < len; i++) {
 ones[i] = (binary[i] == '0') ? '1' :'0';
 }
