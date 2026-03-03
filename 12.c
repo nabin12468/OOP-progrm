@@ -25,7 +25,7 @@ int main() {
         else
             AC = AC + M;
 
-        // Set LSB of Q
+        
         if(AC >= 0)
             Q = Q | 1;
         else
