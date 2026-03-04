@@ -10,7 +10,7 @@ int main() {
     printf("Enter divisor: ");
     scanf("%u", &divisor);
 
-    unsigned int A = 0; // Accumulator
+    unsigned int A = 0; //
     unsigned int Q = dividend;
     unsigned int M = divisor;
 
