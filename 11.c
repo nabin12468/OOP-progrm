@@ -23,7 +23,7 @@ int main() {
         int temp = (int)A - (int)M; // Use int for signed subtraction
         if(temp < 0) {
             Q = Q & ~1;    // Set LSB of Q to 0
-            // Restore A
+          
         } else {
             A = (unsigned int)temp; // Update A
             Q = Q | 1;     // Set LSB of Q to 1
