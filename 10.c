@@ -11,7 +11,7 @@ void printBits(int value, int n) {
 
 int main() {
     unsigned int M, Q, A = 0, count;
-    int n = 4; // 4-bit multiplication
+    int n = 4; 
 
     printf("Enter Multiplicand M (0-15): ");
     scanf("%u", &M);

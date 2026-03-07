@@ -26,7 +26,7 @@ int main() {
           
         } else {
             A = (unsigned int)temp; // Update A
-            Q = Q | 1;     //
+            Q = Q | 1;     // Set LSB of Q to 1
         }
     }
 
