@@ -24,7 +24,7 @@ void decimalToBinary(int n, int bin[]) {
     }
 }
 
-// Add two binary arrays
+// 
 void addBinary(int a[], int b[], int res[]) {
     int carry = 0;
     for(int i = BITS-1; i >= 0; i--) {
