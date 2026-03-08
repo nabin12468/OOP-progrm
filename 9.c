@@ -13,7 +13,7 @@ void decimalToBinary(int n, int bin[]) {
         num /= 2;
     }
     if(n < 0) {
-        // 2's complement
+        // 
         for(int i = 0; i < BITS; i++) bin[i] = 1 - bin[i]; // 1's complement
         int carry = 1;
         for(int i = BITS-1; i >= 0; i--) {
