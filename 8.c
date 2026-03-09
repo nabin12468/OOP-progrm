@@ -54,7 +54,7 @@ int main() {
     // Step 2: 2's complement of B
     addOne(B_ones, B_twos);
 
-    // Step 3: Add A and 2's complement of B
+    //  Add A and 2's complement of B
     addBinary(A, B_twos, result);
 
     printf("Result of A - B in 2's complement: %s\n", result);
