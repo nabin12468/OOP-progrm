@@ -2,7 +2,7 @@
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <conio.h> 
-#define size 10 // Added to make changing size of array easier 
+#define size 10 // 
 int smallest(int arr[], int k, int n); // Added to sort array 
 void selection_sort(int arr[], int n); // Added to sort array 
 int main(int argc, char *argv[]) { 
