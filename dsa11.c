@@ -22,7 +22,7 @@ found =1;
 pos=i; 
 printf("\n %d is found in the array at position= %d", num,i+1); 
 /* +1 added in line 23 so that it would display the number in 
- */ 
+the first place in the array as in position 1 instead of 0 */ 
 break; 
 } 
 } 
