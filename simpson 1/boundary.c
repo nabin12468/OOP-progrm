@@ -10,7 +10,7 @@ int main() {
     float guess1, guess2;   // two slope guesses
     int n, i;
 
-    // Input from user
+    // 
     printf("Enter x0, y0 (initial boundary): ");
     scanf("%f %f", &x0, &y0);
 
