@@ -7,7 +7,7 @@ float f(float y) {
 
 int main() {
     float x0, y0, xn, yn, h;
-    float guess1, guess2;   // two slope guesses
+    float guess1, guess2;   // 
     int n, i;
 
     // 
