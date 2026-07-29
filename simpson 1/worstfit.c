@@ -44,4 +44,16 @@ int main() {
         }
     }
 
-    
+    printf("\nProcess\tSize\tBlock\n");
+
+    for (int i = 0; i < np; i++) {
+        printf("P%d\t%d\t", i + 1, process[i]);
+
+        if (allocation[i] != -1)
+            printf("%d\n", allocation[i] + 1);
+        else
+            printf("Not Allocated\n");
+    }
+
+    return 0;
+}
