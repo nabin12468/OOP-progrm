@@ -34,10 +34,10 @@ int main() {
         }
     }
 
-    if(state==1)
+    if(state==0 || state==2) {
         printf("Accepted\n");
-    else
-        printf("Rejected\n");
-
-    return 0;
+    }
+    else {
+        printf("Not Accepted\n");
+    }
 }
